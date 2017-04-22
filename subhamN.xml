@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus2>
+            <Filename>RR-N-v5.8.3-20170416-oneplus2-Official.zip</Filename> 
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=817550096634762495<RomUrl> 
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>               
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</oneplus2>
+    </Stable>
+    <Stable>
+        <p1a42>
+            <Filename>RR-N-v5.8.3-20170418-p1a42-Official.zip</Filename> 
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Unofficial ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862720124</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>              
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</p1a42>
+    </Stable>
+</SlimOTA>
